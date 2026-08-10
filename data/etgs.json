@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T13:43:42+00:00",
+  "generated_at": "2026-08-10T14:13:53+00:00",
   "source": "TGS — Síntesis del Estado Operativo (ETGS)",
-  "source_date": "2026-08-05",
+  "source_date": "2026-08-08",
   "data": [
     {
       "generado_at": "2026-04-03T08:17:23",
@@ -2038,6 +2038,36 @@
       "pcs_troncal": 9532,
       "pcs_paralelo": 9592,
       "source": "ETGS1785985200000.pdf"
+    },
+    {
+      "generado_at": "2026-08-08T14:42:05",
+      "fecha": "2026-08-07",
+      "linepack_tgs_dia_anterior": 221.32,
+      "linepack_tgs_dia_actual": 221.37,
+      "linepack_tgs_variacion": 0.05,
+      "alerta_estado": "TGSA - Alerta",
+      "alerta_motivo": "Por bajo linepack en Tramos",
+      "pcs_san_martin": 9516,
+      "pcs_neuba_1": 10097,
+      "pcs_neuba_2": 10542,
+      "pcs_troncal": 9481,
+      "pcs_paralelo": 9550,
+      "source": "ETGS1786158000000.pdf"
+    },
+    {
+      "generado_at": "2026-08-09T08:13:25",
+      "fecha": "2026-08-08",
+      "linepack_tgs_dia_anterior": 221.37,
+      "linepack_tgs_dia_actual": 224.37,
+      "linepack_tgs_variacion": 3.0,
+      "alerta_estado": "TGSA - Alerta",
+      "alerta_motivo": "Por bajo linepack en Tramos",
+      "pcs_san_martin": 9522,
+      "pcs_neuba_1": 10068,
+      "pcs_neuba_2": 10421,
+      "pcs_troncal": 9439,
+      "pcs_paralelo": 9499,
+      "source": "ETGS1786244400000.pdf"
     }
   ],
   "issues": []

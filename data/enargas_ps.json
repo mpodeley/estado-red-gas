@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T14:13:53+00:00",
+  "generated_at": "2026-08-11T14:17:29+00:00",
   "source": "ENARGAS Proyección Semanal (PS) — columna REAL",
   "source_date": "2026-08-06",
   "data": [
@@ -3905,5 +3905,8 @@
       "source": "PS_20260808.pdf"
     }
   ],
-  "issues": []
+  "issues": [
+    "PS_20260810.pdf: header: could not parse column anchors",
+    "PS_20260810.pdf: no REAL row"
+  ]
 }

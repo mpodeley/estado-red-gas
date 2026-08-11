@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T14:13:18+00:00",
+  "generated_at": "2026-08-11T14:15:48+00:00",
   "source": "Secretaría de Energía — Capítulo IV (datos.energia.gob.ar)",
   "source_date": "2026-07",
   "data": [
@@ -28702,7 +28702,7 @@
       "cuenca": "NEUQUINA",
       "provincia": "Neuquén",
       "prod_gas_mm3": 47.62,
-      "prod_pet_m3": 105699.64,
+      "prod_pet_m3": 105699.63,
       "prod_agua_m3": 217118.27,
       "pozos_activos": 100,
       "pozos_no_conv": 46
@@ -31078,7 +31078,7 @@
       "cuenca": "NEUQUINA",
       "provincia": "Neuquén",
       "prod_gas_mm3": 43.47,
-      "prod_pet_m3": 97761.85,
+      "prod_pet_m3": 97761.86,
       "prod_agua_m3": 195360.74,
       "pozos_activos": 103,
       "pozos_no_conv": 46
@@ -38567,7 +38567,7 @@
       "provincia": "Neuquén",
       "prod_gas_mm3": 3.29,
       "prod_pet_m3": 71954.42,
-      "prod_agua_m3": 10474.35,
+      "prod_agua_m3": 10474.36,
       "pozos_activos": 30,
       "pozos_no_conv": 39
     },
@@ -41465,18 +41465,6 @@
     },
     {
       "mes": "2026-06",
-      "area": "CERRO HAMACA",
-      "empresa": "PETROLEOS SUDAMERICANOS S.A.",
-      "cuenca": "NEUQUINA",
-      "provincia": "Neuquén",
-      "prod_gas_mm3": 0.38,
-      "prod_pet_m3": 2749.65,
-      "prod_agua_m3": 45023.0,
-      "pozos_activos": 32,
-      "pozos_no_conv": 0
-    },
-    {
-      "mes": "2026-06",
       "area": "LOMA JARILLOSA ESTE",
       "empresa": "GEOPARK ARGENTINA S.A.",
       "cuenca": "NEUQUINA",
@@ -41486,6 +41474,18 @@
       "prod_agua_m3": 1793.86,
       "pozos_activos": 6,
       "pozos_no_conv": 11
+    },
+    {
+      "mes": "2026-06",
+      "area": "CERRO HAMACA",
+      "empresa": "PETROLEOS SUDAMERICANOS S.A.",
+      "cuenca": "NEUQUINA",
+      "provincia": "Neuquén",
+      "prod_gas_mm3": 0.37,
+      "prod_pet_m3": 2749.65,
+      "prod_agua_m3": 45023.0,
+      "pozos_activos": 32,
+      "pozos_no_conv": 0
     },
     {
       "mes": "2026-06",
@@ -42521,6 +42521,30 @@
     },
     {
       "mes": "2026-07",
+      "area": "AGUADA DEL CHIVATO - AGUADA BOCAREY",
+      "empresa": "PATAGONIA ENERGY S.A.",
+      "cuenca": "NEUQUINA",
+      "provincia": "Neuquén",
+      "prod_gas_mm3": 0.26,
+      "prod_pet_m3": 485.4,
+      "prod_agua_m3": 168.45,
+      "pozos_activos": 4,
+      "pozos_no_conv": 2
+    },
+    {
+      "mes": "2026-07",
+      "area": "LOMA JARILLOSA ESTE",
+      "empresa": "GEOPARK ARGENTINA S.A.",
+      "cuenca": "NEUQUINA",
+      "provincia": "Neuquén",
+      "prod_gas_mm3": 0.22,
+      "prod_pet_m3": 1838.61,
+      "prod_agua_m3": 9175.27,
+      "pozos_activos": 3,
+      "pozos_no_conv": 11
+    },
+    {
+      "mes": "2026-07",
       "area": "LAS MANADAS",
       "empresa": "BENTIA ENERGY S.A.",
       "cuenca": "NEUQUINA",
@@ -42602,6 +42626,18 @@
       "prod_agua_m3": 0.0,
       "pozos_activos": 0,
       "pozos_no_conv": 0
+    },
+    {
+      "mes": "2026-07",
+      "area": "PUESTO SILVA OESTE",
+      "empresa": "GEOPARK ARGENTINA S.A.",
+      "cuenca": "NEUQUINA",
+      "provincia": "Neuquén",
+      "prod_gas_mm3": 0.0,
+      "prod_pet_m3": 183.58,
+      "prod_agua_m3": 0.0,
+      "pozos_activos": 3,
+      "pozos_no_conv": 4
     }
   ],
   "years_fetched": [

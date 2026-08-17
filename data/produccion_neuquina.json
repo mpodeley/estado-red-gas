@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T13:29:29+00:00",
+  "generated_at": "2026-08-17T13:32:10+00:00",
   "source": "Secretaría de Energía — Capítulo IV (datos.energia.gob.ar)",
   "source_date": "2026-07",
   "data": [
@@ -38567,7 +38567,7 @@
       "provincia": "Neuquén",
       "prod_gas_mm3": 3.29,
       "prod_pet_m3": 71954.42,
-      "prod_agua_m3": 10474.35,
+      "prod_agua_m3": 10474.36,
       "pozos_activos": 30,
       "pozos_no_conv": 39
     },
@@ -42698,6 +42698,18 @@
       "prod_agua_m3": 920.81,
       "pozos_activos": 31,
       "pozos_no_conv": 2
+    },
+    {
+      "mes": "2026-07",
+      "area": "CUTRAL CO NORTE",
+      "empresa": "PETROLSUR ENERGIA S.A.",
+      "cuenca": "NEUQUINA",
+      "provincia": "Neuquén",
+      "prod_gas_mm3": 0.92,
+      "prod_pet_m3": 24.88,
+      "prod_agua_m3": 12.76,
+      "pozos_activos": 7,
+      "pozos_no_conv": 1
     },
     {
       "mes": "2026-07",

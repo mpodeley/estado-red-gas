@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:32:10+00:00",
+  "generated_at": "2026-08-18T13:35:54+00:00",
   "source": "Secretaría de Energía — Capítulo IV (datos.energia.gob.ar)",
   "source_date": "2026-07",
   "data": [
@@ -29170,7 +29170,7 @@
       "cuenca": "NEUQUINA",
       "provincia": "Neuquén",
       "prod_gas_mm3": 3.12,
-      "prod_pet_m3": 50043.79,
+      "prod_pet_m3": 50043.78,
       "prod_agua_m3": 2953.06,
       "pozos_activos": 28,
       "pozos_no_conv": 31
@@ -35614,7 +35614,7 @@
       "cuenca": "NEUQUINA",
       "provincia": "Neuquén",
       "prod_gas_mm3": 319.79,
-      "prod_pet_m3": 128416.66,
+      "prod_pet_m3": 128416.67,
       "prod_agua_m3": 148649.2,
       "pozos_activos": 98,
       "pozos_no_conv": 133
@@ -36850,7 +36850,7 @@
       "cuenca": "NEUQUINA",
       "provincia": "Rio Negro",
       "prod_gas_mm3": 0.34,
-      "prod_pet_m3": 2472.77,
+      "prod_pet_m3": 2472.78,
       "prod_agua_m3": 141796.08,
       "pozos_activos": 37,
       "pozos_no_conv": 0
@@ -37906,7 +37906,7 @@
       "cuenca": "NEUQUINA",
       "provincia": "Neuquén",
       "prod_gas_mm3": 416.29,
-      "prod_pet_m3": 142413.92,
+      "prod_pet_m3": 142413.93,
       "prod_agua_m3": 153982.81,
       "pozos_activos": 107,
       "pozos_no_conv": 134
@@ -38758,7 +38758,7 @@
       "cuenca": "NEUQUINA",
       "provincia": "Neuquén",
       "prod_gas_mm3": 1.99,
-      "prod_pet_m3": 5269.63,
+      "prod_pet_m3": 5269.64,
       "prod_agua_m3": 21910.31,
       "pozos_activos": 45,
       "pozos_no_conv": 0
@@ -38891,7 +38891,7 @@
       "provincia": "Rio Negro",
       "prod_gas_mm3": 1.27,
       "prod_pet_m3": 2232.92,
-      "prod_agua_m3": 28855.3,
+      "prod_agua_m3": 28855.29,
       "pozos_activos": 42,
       "pozos_no_conv": 43
     },
@@ -41362,7 +41362,7 @@
       "cuenca": "NEUQUINA",
       "provincia": "Mendoza",
       "prod_gas_mm3": 0.6,
-      "prod_pet_m3": 18901.52,
+      "prod_pet_m3": 18901.51,
       "prod_agua_m3": 190786.25,
       "pozos_activos": 107,
       "pozos_no_conv": 43
@@ -41465,18 +41465,6 @@
     },
     {
       "mes": "2026-06",
-      "area": "CERRO HAMACA",
-      "empresa": "PETROLEOS SUDAMERICANOS S.A.",
-      "cuenca": "NEUQUINA",
-      "provincia": "Neuquén",
-      "prod_gas_mm3": 0.38,
-      "prod_pet_m3": 2749.65,
-      "prod_agua_m3": 45023.0,
-      "pozos_activos": 32,
-      "pozos_no_conv": 0
-    },
-    {
-      "mes": "2026-06",
       "area": "LOMA JARILLOSA ESTE",
       "empresa": "GEOPARK ARGENTINA S.A.",
       "cuenca": "NEUQUINA",
@@ -41486,6 +41474,18 @@
       "prod_agua_m3": 1793.86,
       "pozos_activos": 6,
       "pozos_no_conv": 11
+    },
+    {
+      "mes": "2026-06",
+      "area": "CERRO HAMACA",
+      "empresa": "PETROLEOS SUDAMERICANOS S.A.",
+      "cuenca": "NEUQUINA",
+      "provincia": "Neuquén",
+      "prod_gas_mm3": 0.37,
+      "prod_pet_m3": 2749.65,
+      "prod_agua_m3": 45023.0,
+      "pozos_activos": 32,
+      "pozos_no_conv": 0
     },
     {
       "mes": "2026-06",
@@ -42611,7 +42611,7 @@
       "provincia": "Neuquén",
       "prod_gas_mm3": 2.86,
       "prod_pet_m3": 5467.33,
-      "prod_agua_m3": 22572.23,
+      "prod_agua_m3": 22572.24,
       "pozos_activos": 49,
       "pozos_no_conv": 0
     },
@@ -42869,6 +42869,18 @@
     },
     {
       "mes": "2026-07",
+      "area": "CAJON DE LOS CABALLOS",
+      "empresa": "ROCH S.A.",
+      "cuenca": "NEUQUINA",
+      "provincia": "Mendoza",
+      "prod_gas_mm3": 0.04,
+      "prod_pet_m3": 835.92,
+      "prod_agua_m3": 2424.0,
+      "pozos_activos": 7,
+      "pozos_no_conv": 0
+    },
+    {
+      "mes": "2026-07",
       "area": "ATUEL NORTE EXPLOTACION",
       "empresa": "TANGO ENERGY ARGENTINA S.A.",
       "cuenca": "NEUQUINA",
@@ -42925,6 +42937,18 @@
       "prod_pet_m3": 253.23,
       "prod_agua_m3": 429.49,
       "pozos_activos": 9,
+      "pozos_no_conv": 0
+    },
+    {
+      "mes": "2026-07",
+      "area": "AGUA BOTADA",
+      "empresa": "ROCH S.A.",
+      "cuenca": "NEUQUINA",
+      "provincia": "Mendoza",
+      "prod_gas_mm3": 0.0,
+      "prod_pet_m3": 0.0,
+      "prod_agua_m3": 0.0,
+      "pozos_activos": 0,
       "pozos_no_conv": 0
     },
     {
@@ -43042,7 +43066,7 @@
       "cuenca": "NEUQUINA",
       "provincia": "Neuquén",
       "prod_gas_mm3": 0.0,
-      "prod_pet_m3": 316.09,
+      "prod_pet_m3": 316.1,
       "prod_agua_m3": 16576.51,
       "pozos_activos": 6,
       "pozos_no_conv": 0

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T13:42:57+00:00",
+  "generated_at": "2026-08-26T13:48:35+00:00",
   "source": "ENARGAS Reporte Diario del Sistema (RDS)",
-  "source_date": "2026-08-25",
+  "source_date": "2026-08-26",
   "data": [
     {
       "fecha": "2024-04-20",
@@ -41998,11 +41998,57 @@
     },
     {
       "fecha": "2026-08-25",
+      "source": "RDS_20260825.pdf",
       "linepack_total": 344.4,
       "linepack_delta": -9.8,
+      "consumo_total_estimado": 144.5,
+      "temperatura_ba": {
+        "min": 8.0,
+        "max": 14.0,
+        "tm": 11.0
+      },
       "importaciones": {
         "bolivia": {
-          "programa": 3.7,
+          "programa": 3.7
+        },
+        "chile": {
+          "programa": 0.0
+        },
+        "escobar": {
+          "programa": 7.3,
+          "proximo_barco": "25-ago"
+        },
+        "bahia_blanca": {
+          "programa": 0.0
+        }
+      },
+      "consumos": {
+        "industria": {
+          "programa": 32.3
+        },
+        "gnc": {
+          "programa": 5.5
+        },
+        "combustible": {
+          "programa": 3.8
+        }
+      },
+      "exportaciones": {
+        "tgn": {
+          "vol_exportar": 6.2
+        },
+        "tgs": {
+          "vol_exportar": 0.5
+        }
+      }
+    },
+    {
+      "fecha": "2026-08-26",
+      "linepack_total": 340.2,
+      "linepack_delta": -4.2,
+      "importaciones": {
+        "bolivia": {
+          "programa": 1.2,
           "proximo_barco": null,
           "prom_mes_prev_year": 1.8,
           "misma_semana_prev_year": 0.0
@@ -42014,8 +42060,8 @@
           "misma_semana_prev_year": 0.0
         },
         "escobar": {
-          "programa": 7.3,
-          "proximo_barco": "25-ago",
+          "programa": 3.5,
+          "proximo_barco": null,
           "prom_mes_prev_year": 7.7,
           "misma_semana_prev_year": 0.0
         },
@@ -42028,7 +42074,7 @@
       },
       "exportaciones": {
         "tgn": {
-          "vol_exportar": 6.2,
+          "vol_exportar": 6.0,
           "prom_mes_2025": 6.5,
           "misma_semana_2025": 6.5
         },
@@ -42040,7 +42086,7 @@
       },
       "consumos": {
         "industria": {
-          "programa": 32.3,
+          "programa": 32.7,
           "prom_mes_2025": 34.0,
           "misma_semana_2025": 34.0
         },
@@ -42050,58 +42096,58 @@
           "misma_semana_2025": 5.3
         },
         "combustible": {
-          "programa": 3.8,
+          "programa": 4.0,
           "prom_mes_2025": 3.6,
           "misma_semana_2025": 3.0
         }
       },
-      "consumo_total_estimado": 144.5,
+      "consumo_total_estimado": 138.5,
       "temperatura_ba": {
-        "min": 8.0,
-        "max": 14.0,
-        "tm": 11.0,
+        "min": 10.0,
+        "max": 18.0,
+        "tm": 14.0,
         "tm_2025": 13.5,
         "tm_misma_semana": 16.7
       },
       "forecast_temp_ba": [
         {
-          "fecha": "2026-08-26",
-          "min": 10.0,
-          "max": 19.0,
-          "tm": 14.5
-        },
-        {
           "fecha": "2026-08-27",
-          "min": 14.0,
+          "min": 13.0,
           "max": 18.0,
-          "tm": 16.0
+          "tm": 15.5
         },
         {
           "fecha": "2026-08-28",
-          "min": 11.0,
+          "min": 10.0,
           "max": 17.0,
-          "tm": 14.0
+          "tm": 13.5
         },
         {
           "fecha": "2026-08-29",
-          "min": 9.0,
+          "min": 8.0,
           "max": 17.0,
-          "tm": 13.0
+          "tm": 12.5
         },
         {
           "fecha": "2026-08-30",
-          "min": 11.0,
+          "min": 10.0,
           "max": 17.0,
-          "tm": 14.0
+          "tm": 13.5
         },
         {
           "fecha": "2026-08-31",
           "min": 11.0,
           "max": 18.0,
           "tm": 14.5
+        },
+        {
+          "fecha": "2026-09-01",
+          "min": 12.0,
+          "max": 17.0,
+          "tm": 14.5
         }
       ],
-      "source": "RDS_20260825.pdf"
+      "source": "RDS_20260826.pdf"
     }
   ],
   "issues": []

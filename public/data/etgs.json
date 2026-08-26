@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T13:43:09+00:00",
+  "generated_at": "2026-08-26T13:48:49+00:00",
   "source": "TGS — Síntesis del Estado Operativo (ETGS)",
-  "source_date": "2026-08-24",
+  "source_date": "2026-08-25",
   "data": [
     {
       "generado_at": "2026-04-03T08:17:23",
@@ -2292,6 +2292,21 @@
       "pcs_troncal": 9697,
       "pcs_paralelo": 9676,
       "source": "ETGS1787626800000.pdf"
+    },
+    {
+      "generado_at": "2026-08-26T08:02:47",
+      "fecha": "2026-08-25",
+      "linepack_tgs_dia_anterior": 219.99,
+      "linepack_tgs_dia_actual": 219.22,
+      "linepack_tgs_variacion": -0.77,
+      "alerta_estado": "TGSA -",
+      "alerta_motivo": "Normal",
+      "pcs_san_martin": 9623,
+      "pcs_neuba_1": 10002,
+      "pcs_neuba_2": 10410,
+      "pcs_troncal": 9596,
+      "pcs_paralelo": 9598,
+      "source": "ETGS1787713200000.pdf"
     }
   ],
   "issues": []

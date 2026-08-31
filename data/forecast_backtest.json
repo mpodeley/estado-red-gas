@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T17:03:15+00:00",
+  "generated_at": "2026-08-31T19:19:34+00:00",
   "source": "rolling train/predict on ENARGAS RDS",
   "source_date": null,
   "data": {
@@ -8,21 +8,11 @@
     "segments": {
       "prioritaria": {
         "metrics": {
-          "mae": 8.89,
-          "mape": 10.62,
-          "n": 10
+          "mae": 8.41,
+          "mape": 10.27,
+          "n": 8
         },
         "series": [
-          {
-            "fecha": "2026-07-01",
-            "actual": 86.4,
-            "predicted": 94.36
-          },
-          {
-            "fecha": "2026-07-02",
-            "actual": 92.1,
-            "predicted": 105.77
-          },
           {
             "fecha": "2026-07-04",
             "actual": 89.0,
@@ -276,7 +266,7 @@
           {
             "fecha": "2026-08-24",
             "actual": null,
-            "predicted": 66.3
+            "predicted": 62.36
           },
           {
             "fecha": "2026-08-25",
@@ -302,26 +292,26 @@
             "fecha": "2026-08-29",
             "actual": null,
             "predicted": 46.98
+          },
+          {
+            "fecha": "2026-08-30",
+            "actual": null,
+            "predicted": 38.36
+          },
+          {
+            "fecha": "2026-08-31",
+            "actual": null,
+            "predicted": 33.72
           }
         ]
       },
       "usinas": {
         "metrics": {
-          "mae": 6.42,
-          "mape": 21.07,
-          "n": 10
+          "mae": 6.17,
+          "mape": 20.26,
+          "n": 8
         },
         "series": [
-          {
-            "fecha": "2026-07-01",
-            "actual": 30.4,
-            "predicted": 25.35
-          },
-          {
-            "fecha": "2026-07-02",
-            "actual": 30.6,
-            "predicted": 20.81
-          },
           {
             "fecha": "2026-07-04",
             "actual": 25.0,
@@ -601,26 +591,26 @@
             "fecha": "2026-08-29",
             "actual": null,
             "predicted": 26.47
+          },
+          {
+            "fecha": "2026-08-30",
+            "actual": null,
+            "predicted": 25.65
+          },
+          {
+            "fecha": "2026-08-31",
+            "actual": null,
+            "predicted": 32.25
           }
         ]
       },
       "demanda_total": {
         "metrics": {
-          "mae": 11.39,
-          "mape": 7.52,
+          "mae": 11.13,
+          "mape": 7.39,
           "n": 58
         },
         "series": [
-          {
-            "fecha": "2026-07-01",
-            "actual": 160.4,
-            "predicted": 149.08
-          },
-          {
-            "fecha": "2026-07-02",
-            "actual": 165.8,
-            "predicted": 155.02
-          },
           {
             "fecha": "2026-07-04",
             "actual": 154.6,
@@ -900,6 +890,16 @@
             "fecha": "2026-08-29",
             "actual": 126.5,
             "predicted": 130.31
+          },
+          {
+            "fecha": "2026-08-30",
+            "actual": 117.4,
+            "predicted": 121.68
+          },
+          {
+            "fecha": "2026-08-31",
+            "actual": 128.1,
+            "predicted": 131.15
           }
         ]
       }

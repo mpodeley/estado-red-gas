@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T17:01:53+00:00",
+  "generated_at": "2026-08-31T19:17:38+00:00",
   "source": "CAMMESA PPO — Consumo Combustibles (aggregated per day)",
   "source_date": "2026-06-25",
   "data": [
@@ -2046,7 +2046,6 @@
     }
   ],
   "failures": [
-    "2026-07-31: not an OLE2 file (first bytes b'PK\\x03\\x04\\x14\\x00\\x06\\x00')",
     "2026-08-01: not an OLE2 file (first bytes b'PK\\x03\\x04\\x14\\x00\\x06\\x00')",
     "2026-08-02: not an OLE2 file (first bytes b'PK\\x03\\x04\\x14\\x00\\x06\\x00')",
     "2026-08-03: not an OLE2 file (first bytes b'PK\\x03\\x04\\x14\\x00\\x06\\x00')",
@@ -2073,6 +2072,9 @@
     "2026-08-24: not an OLE2 file (first bytes b'PK\\x03\\x04\\x14\\x00\\x06\\x00')",
     "2026-08-25: not an OLE2 file (first bytes b'PK\\x03\\x04\\x14\\x00\\x06\\x00')",
     "2026-08-26: not an OLE2 file (first bytes b'PK\\x03\\x04\\x14\\x00\\x06\\x00')",
-    "2026-08-27: not an OLE2 file (first bytes b'PK\\x03\\x04\\x14\\x00\\x06\\x00')"
+    "2026-08-27: not an OLE2 file (first bytes b'PK\\x03\\x04\\x14\\x00\\x06\\x00')",
+    "2026-08-28: not an OLE2 file (first bytes b'PK\\x03\\x04\\x14\\x00\\x06\\x00')",
+    "2026-08-29: not an OLE2 file (first bytes b'PK\\x03\\x04\\x14\\x00\\x06\\x00')",
+    "2026-08-30: not an OLE2 file (first bytes b'PK\\x03\\x04\\x14\\x00\\x06\\x00')"
   ]
 }

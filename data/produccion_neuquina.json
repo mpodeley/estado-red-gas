@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T16:40:15+00:00",
+  "generated_at": "2026-09-05T15:42:43+00:00",
   "source": "Secretaría de Energía — Capítulo IV (datos.energia.gob.ar)",
   "source_date": "2026-08",
   "data": [
@@ -29170,7 +29170,7 @@
       "cuenca": "NEUQUINA",
       "provincia": "Neuquén",
       "prod_gas_mm3": 3.12,
-      "prod_pet_m3": 50043.79,
+      "prod_pet_m3": 50043.78,
       "prod_agua_m3": 2953.06,
       "pozos_activos": 28,
       "pozos_no_conv": 31
@@ -31078,7 +31078,7 @@
       "cuenca": "NEUQUINA",
       "provincia": "Neuquén",
       "prod_gas_mm3": 43.47,
-      "prod_pet_m3": 97761.86,
+      "prod_pet_m3": 97761.85,
       "prod_agua_m3": 195360.74,
       "pozos_activos": 103,
       "pozos_no_conv": 46
@@ -31115,7 +31115,7 @@
       "provincia": "Neuquén",
       "prod_gas_mm3": 30.16,
       "prod_pet_m3": 253233.36,
-      "prod_agua_m3": 159456.62,
+      "prod_agua_m3": 159456.61,
       "pozos_activos": 167,
       "pozos_no_conv": 173
     },
@@ -41465,6 +41465,18 @@
     },
     {
       "mes": "2026-06",
+      "area": "CERRO HAMACA",
+      "empresa": "PETROLEOS SUDAMERICANOS S.A.",
+      "cuenca": "NEUQUINA",
+      "provincia": "Neuquén",
+      "prod_gas_mm3": 0.38,
+      "prod_pet_m3": 2749.65,
+      "prod_agua_m3": 45023.0,
+      "pozos_activos": 32,
+      "pozos_no_conv": 0
+    },
+    {
+      "mes": "2026-06",
       "area": "LOMA JARILLOSA ESTE",
       "empresa": "GEOPARK ARGENTINA S.A.",
       "cuenca": "NEUQUINA",
@@ -41474,18 +41486,6 @@
       "prod_agua_m3": 1793.86,
       "pozos_activos": 6,
       "pozos_no_conv": 11
-    },
-    {
-      "mes": "2026-06",
-      "area": "CERRO HAMACA",
-      "empresa": "PETROLEOS SUDAMERICANOS S.A.",
-      "cuenca": "NEUQUINA",
-      "provincia": "Neuquén",
-      "prod_gas_mm3": 0.37,
-      "prod_pet_m3": 2749.65,
-      "prod_agua_m3": 45023.0,
-      "pozos_activos": 32,
-      "pozos_no_conv": 0
     },
     {
       "mes": "2026-06",
@@ -43187,7 +43187,7 @@
       "provincia": "Neuquén",
       "prod_gas_mm3": 2.86,
       "prod_pet_m3": 5467.33,
-      "prod_agua_m3": 22572.23,
+      "prod_agua_m3": 22572.24,
       "pozos_activos": 49,
       "pozos_no_conv": 0
     },
@@ -44693,6 +44693,78 @@
     },
     {
       "mes": "2026-08",
+      "area": "CENTENARIO CENTRO",
+      "empresa": "FLXS OGE S.A",
+      "cuenca": "NEUQUINA",
+      "provincia": "Neuquén",
+      "prod_gas_mm3": 26.96,
+      "prod_pet_m3": 2045.93,
+      "prod_agua_m3": 11045.51,
+      "pozos_activos": 280,
+      "pozos_no_conv": 138
+    },
+    {
+      "mes": "2026-08",
+      "area": "RINCONADA PUESTO MORALES RN",
+      "empresa": "GEOPETROL DRILLING S.A.",
+      "cuenca": "NEUQUINA",
+      "provincia": "Rio Negro",
+      "prod_gas_mm3": 0.79,
+      "prod_pet_m3": 908.84,
+      "prod_agua_m3": 9049.25,
+      "pozos_activos": 30,
+      "pozos_no_conv": 0
+    },
+    {
+      "mes": "2026-08",
+      "area": "LOMA JARILLOSA ESTE",
+      "empresa": "GEOPARK ARGENTINA S.A.",
+      "cuenca": "NEUQUINA",
+      "provincia": "Neuquén",
+      "prod_gas_mm3": 0.57,
+      "prod_pet_m3": 8002.25,
+      "prod_agua_m3": 20721.67,
+      "pozos_activos": 8,
+      "pozos_no_conv": 14
+    },
+    {
+      "mes": "2026-08",
+      "area": "MEDIANERA",
+      "empresa": "GEOPETROL DRILLING S.A.",
+      "cuenca": "NEUQUINA",
+      "provincia": "Rio Negro",
+      "prod_gas_mm3": 0.06,
+      "prod_pet_m3": 282.48,
+      "prod_agua_m3": 1591.06,
+      "pozos_activos": 4,
+      "pozos_no_conv": 0
+    },
+    {
+      "mes": "2026-08",
+      "area": "PUESTO MORALES ESTE",
+      "empresa": "GEOPETROL DRILLING S.A.",
+      "cuenca": "NEUQUINA",
+      "provincia": "Rio Negro",
+      "prod_gas_mm3": 0.01,
+      "prod_pet_m3": 84.93,
+      "prod_agua_m3": 0.4,
+      "pozos_activos": 1,
+      "pozos_no_conv": 0
+    },
+    {
+      "mes": "2026-08",
+      "area": "CENTENARIO",
+      "empresa": "FLXS OGE S.A",
+      "cuenca": "NEUQUINA",
+      "provincia": "Neuquén",
+      "prod_gas_mm3": 0.0,
+      "prod_pet_m3": 0.0,
+      "prod_agua_m3": 0.0,
+      "pozos_activos": 0,
+      "pozos_no_conv": 0
+    },
+    {
+      "mes": "2026-08",
       "area": "LA PENDIENTE",
       "empresa": "INGENIERIA SIMA S.A.",
       "cuenca": "NEUQUINA",
@@ -44714,6 +44786,18 @@
       "prod_agua_m3": 0.0,
       "pozos_activos": 0,
       "pozos_no_conv": 0
+    },
+    {
+      "mes": "2026-08",
+      "area": "PUESTO SILVA OESTE",
+      "empresa": "GEOPARK ARGENTINA S.A.",
+      "cuenca": "NEUQUINA",
+      "provincia": "Neuquén",
+      "prod_gas_mm3": 0.0,
+      "prod_pet_m3": 172.22,
+      "prod_agua_m3": 0.0,
+      "pozos_activos": 3,
+      "pozos_no_conv": 4
     }
   ],
   "years_fetched": [

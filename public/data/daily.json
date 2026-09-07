@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T15:54:04+00:00",
+  "generated_at": "2026-09-07T18:00:32+00:00",
   "source": "Construido de RDS + PS + ING + ETGS + PPO (histórico manual congelado en daily_history.json)",
   "source_date": "2026-09-06",
   "data": [
@@ -42140,8 +42140,8 @@
       "iny_bolivia": null,
       "iny_escobar": null,
       "iny_total": null,
-      "linepack_tgs": null,
-      "var_linepack_tgs": null,
+      "linepack_tgs": 222.86,
+      "var_linepack_tgs": -6.9,
       "lim_inf_tgs": 215.0,
       "lim_sup_tgs": 235.0,
       "linepack_tgn": null,

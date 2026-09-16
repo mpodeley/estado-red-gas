@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T17:21:24+00:00",
-  "source": "Open-Meteo Archive API (2024-09-08 to 2026-09-08)",
-  "source_date": "2026-09-08",
+  "generated_at": "2026-09-16T17:21:45+00:00",
+  "source": "Open-Meteo Archive API (2024-09-09 to 2026-09-09)",
+  "source_date": "2026-09-09",
   "data": [
     {
       "id": "ba",
@@ -10,12 +10,6 @@
       "lon": -58.3816,
       "region": "pampa",
       "history": [
-        {
-          "fecha": "2024-09-08",
-          "temp_max": 19.0,
-          "temp_min": 8.6,
-          "temp_prom": 13.8
-        },
         {
           "fecha": "2024-09-09",
           "temp_max": 16.9,
@@ -4395,6 +4389,12 @@
           "temp_max": 16.6,
           "temp_min": 8.8,
           "temp_prom": 12.7
+        },
+        {
+          "fecha": "2026-09-09",
+          "temp_max": 18.4,
+          "temp_min": 10.4,
+          "temp_prom": 14.4
         }
       ]
     },
@@ -4405,12 +4405,6 @@
       "lon": -60.6393,
       "region": "pampa",
       "history": [
-        {
-          "fecha": "2024-09-08",
-          "temp_max": 23.4,
-          "temp_min": 10.0,
-          "temp_prom": 16.7
-        },
         {
           "fecha": "2024-09-09",
           "temp_max": 22.2,
@@ -8790,6 +8784,12 @@
           "temp_max": 20.1,
           "temp_min": 6.6,
           "temp_prom": 13.4
+        },
+        {
+          "fecha": "2026-09-09",
+          "temp_max": 19.9,
+          "temp_min": 10.2,
+          "temp_prom": 15.0
         }
       ]
     },
@@ -8800,12 +8800,6 @@
       "lon": -64.1888,
       "region": "centro",
       "history": [
-        {
-          "fecha": "2024-09-08",
-          "temp_max": 25.4,
-          "temp_min": 10.4,
-          "temp_prom": 17.9
-        },
         {
           "fecha": "2024-09-09",
           "temp_max": 27.0,
@@ -13185,6 +13179,12 @@
           "temp_max": 22.4,
           "temp_min": 5.7,
           "temp_prom": 14.0
+        },
+        {
+          "fecha": "2026-09-09",
+          "temp_max": 24.4,
+          "temp_min": 10.3,
+          "temp_prom": 17.4
         }
       ]
     },
@@ -13195,12 +13195,6 @@
       "lon": -60.7,
       "region": "pampa",
       "history": [
-        {
-          "fecha": "2024-09-08",
-          "temp_max": 25.4,
-          "temp_min": 12.7,
-          "temp_prom": 19.0
-        },
         {
           "fecha": "2024-09-09",
           "temp_max": 25.0,
@@ -17580,6 +17574,12 @@
           "temp_max": 20.4,
           "temp_min": 7.9,
           "temp_prom": 14.1
+        },
+        {
+          "fecha": "2026-09-09",
+          "temp_max": 22.3,
+          "temp_min": 12.2,
+          "temp_prom": 17.2
         }
       ]
     },
@@ -17590,12 +17590,6 @@
       "lon": -68.8458,
       "region": "cuyo",
       "history": [
-        {
-          "fecha": "2024-09-08",
-          "temp_max": 18.6,
-          "temp_min": 9.1,
-          "temp_prom": 13.9
-        },
         {
           "fecha": "2024-09-09",
           "temp_max": 21.0,
@@ -21975,6 +21969,12 @@
           "temp_max": 19.9,
           "temp_min": 5.0,
           "temp_prom": 12.4
+        },
+        {
+          "fecha": "2026-09-09",
+          "temp_max": 19.4,
+          "temp_min": 10.5,
+          "temp_prom": 14.9
         }
       ]
     },
@@ -21985,12 +21985,6 @@
       "lon": -68.0591,
       "region": "patagonia",
       "history": [
-        {
-          "fecha": "2024-09-08",
-          "temp_max": 16.9,
-          "temp_min": 3.8,
-          "temp_prom": 10.3
-        },
         {
           "fecha": "2024-09-09",
           "temp_max": 19.9,
@@ -26370,6 +26364,12 @@
           "temp_max": 18.9,
           "temp_min": 3.8,
           "temp_prom": 11.3
+        },
+        {
+          "fecha": "2026-09-09",
+          "temp_max": 18.2,
+          "temp_min": 5.6,
+          "temp_prom": 11.9
         }
       ]
     },
@@ -26380,12 +26380,6 @@
       "lon": -62.2724,
       "region": "pampa",
       "history": [
-        {
-          "fecha": "2024-09-08",
-          "temp_max": 21.1,
-          "temp_min": 6.2,
-          "temp_prom": 13.7
-        },
         {
           "fecha": "2024-09-09",
           "temp_max": 20.5,
@@ -30765,6 +30759,12 @@
           "temp_max": 20.6,
           "temp_min": 7.1,
           "temp_prom": 13.9
+        },
+        {
+          "fecha": "2026-09-09",
+          "temp_max": 19.2,
+          "temp_min": 7.8,
+          "temp_prom": 13.5
         }
       ]
     },
@@ -30775,12 +30775,6 @@
       "lon": -71.3229,
       "region": "patagonia",
       "history": [
-        {
-          "fecha": "2024-09-08",
-          "temp_max": 8.1,
-          "temp_min": 3.2,
-          "temp_prom": 5.7
-        },
         {
           "fecha": "2024-09-09",
           "temp_max": 9.5,
@@ -35160,6 +35154,12 @@
           "temp_max": 7.3,
           "temp_min": 0.4,
           "temp_prom": 3.9
+        },
+        {
+          "fecha": "2026-09-09",
+          "temp_max": 9.7,
+          "temp_min": 2.9,
+          "temp_prom": 6.3
         }
       ]
     },
@@ -35170,12 +35170,6 @@
       "lon": -65.4117,
       "region": "noa",
       "history": [
-        {
-          "fecha": "2024-09-08",
-          "temp_max": 26.1,
-          "temp_min": 10.0,
-          "temp_prom": 18.1
-        },
         {
           "fecha": "2024-09-09",
           "temp_max": 26.8,
@@ -39555,6 +39549,12 @@
           "temp_max": 19.3,
           "temp_min": 2.0,
           "temp_prom": 10.7
+        },
+        {
+          "fecha": "2026-09-09",
+          "temp_max": 26.5,
+          "temp_min": 4.3,
+          "temp_prom": 15.4
         }
       ]
     },
@@ -39565,12 +39565,6 @@
       "lon": -65.2176,
       "region": "noa",
       "history": [
-        {
-          "fecha": "2024-09-08",
-          "temp_max": 27.8,
-          "temp_min": 11.9,
-          "temp_prom": 19.9
-        },
         {
           "fecha": "2024-09-09",
           "temp_max": 28.8,
@@ -43950,6 +43944,12 @@
           "temp_max": 21.0,
           "temp_min": 5.4,
           "temp_prom": 13.2
+        },
+        {
+          "fecha": "2026-09-09",
+          "temp_max": 24.1,
+          "temp_min": 8.2,
+          "temp_prom": 16.1
         }
       ]
     }

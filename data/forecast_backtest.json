@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T17:22:28+00:00",
+  "generated_at": "2026-09-18T16:48:46+00:00",
   "source": "rolling train/predict on ENARGAS RDS",
   "source_date": null,
   "data": {
@@ -13,11 +13,6 @@
           "n": 0
         },
         "series": [
-          {
-            "fecha": "2026-07-20",
-            "actual": null,
-            "predicted": 70.31
-          },
           {
             "fecha": "2026-07-21",
             "actual": null,
@@ -281,7 +276,7 @@
           {
             "fecha": "2026-09-11",
             "actual": null,
-            "predicted": 39.24
+            "predicted": 56.62
           },
           {
             "fecha": "2026-09-12",
@@ -312,6 +307,11 @@
             "fecha": "2026-09-17",
             "actual": null,
             "predicted": 30.01
+          },
+          {
+            "fecha": "2026-09-18",
+            "actual": null,
+            "predicted": 21.23
           }
         ]
       },
@@ -322,11 +322,6 @@
           "n": 0
         },
         "series": [
-          {
-            "fecha": "2026-07-20",
-            "actual": null,
-            "predicted": 27.94
-          },
           {
             "fecha": "2026-07-21",
             "actual": null,
@@ -621,21 +616,21 @@
             "fecha": "2026-09-17",
             "actual": null,
             "predicted": 34.28
+          },
+          {
+            "fecha": "2026-09-18",
+            "actual": null,
+            "predicted": 37.23
           }
         ]
       },
       "demanda_total": {
         "metrics": {
-          "mae": 8.24,
-          "mape": 5.57,
+          "mae": 8.13,
+          "mape": 5.53,
           "n": 60
         },
         "series": [
-          {
-            "fecha": "2026-07-20",
-            "actual": 156.0,
-            "predicted": 141.31
-          },
           {
             "fecha": "2026-07-21",
             "actual": 163.0,
@@ -930,6 +925,11 @@
             "fecha": "2026-09-17",
             "actual": 125.0,
             "predicted": 131.93
+          },
+          {
+            "fecha": "2026-09-18",
+            "actual": 118.1,
+            "predicted": 126.16
           }
         ]
       }

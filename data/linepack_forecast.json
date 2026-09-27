@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T16:52:27+00:00",
+  "generated_at": "2026-09-27T17:23:37+00:00",
   "source": "Reversión a la media del nivel (k por backtest)",
   "source_date": "2026-09-25",
   "data": {
@@ -12,98 +12,103 @@
       {
         "fecha": "2026-09-26",
         "linepack_tgn_est": 131.79,
-        "temp_prom": 16.8,
         "linepack_tgs_est": 226.0
       },
       {
         "fecha": "2026-09-27",
-        "linepack_total_est": 365.91,
-        "temp_prom": 15.9,
         "linepack_tgn_est": 131.72,
+        "temp_prom": 16.1,
         "linepack_tgs_est": 225.4
       },
       {
         "fecha": "2026-09-28",
-        "linepack_total_est": 364.1,
-        "temp_prom": 16.6,
+        "linepack_total_est": 368.48,
+        "temp_prom": 16.8,
         "linepack_tgn_est": 131.66,
         "linepack_tgs_est": 224.98
       },
       {
         "fecha": "2026-09-29",
-        "linepack_total_est": 362.83,
-        "temp_prom": 17.8,
+        "linepack_total_est": 366.3,
+        "temp_prom": 16.9,
         "linepack_tgn_est": 131.61,
         "linepack_tgs_est": 224.69
       },
       {
         "fecha": "2026-09-30",
-        "linepack_total_est": 361.94,
-        "temp_prom": 13.8,
+        "linepack_total_est": 364.77,
+        "temp_prom": 14.0,
         "linepack_tgn_est": 131.57,
         "linepack_tgs_est": 224.49
       },
       {
         "fecha": "2026-10-01",
-        "linepack_total_est": 361.32,
-        "temp_prom": 13.5,
+        "linepack_total_est": 363.7,
+        "temp_prom": 13.7,
         "linepack_tgn_est": 131.54,
         "linepack_tgs_est": 224.35
       },
       {
         "fecha": "2026-10-02",
-        "linepack_total_est": 360.88,
-        "temp_prom": 14.3,
+        "linepack_total_est": 362.95,
+        "temp_prom": 13.2,
         "linepack_tgn_est": 131.51,
         "linepack_tgs_est": 224.25
       },
       {
         "fecha": "2026-10-03",
-        "linepack_total_est": 360.58,
-        "temp_prom": 16.2,
+        "linepack_total_est": 362.43,
+        "temp_prom": 15.2,
         "linepack_tgn_est": 131.49,
         "linepack_tgs_est": 224.18
       },
       {
         "fecha": "2026-10-04",
-        "linepack_total_est": 360.37,
-        "temp_prom": 18.5,
+        "linepack_total_est": 362.06,
+        "temp_prom": 15.8,
         "linepack_tgn_est": 131.47,
         "linepack_tgs_est": 224.13
       },
       {
         "fecha": "2026-10-05",
-        "linepack_total_est": 360.22,
-        "temp_prom": 17.7,
+        "linepack_total_est": 361.8,
+        "temp_prom": 15.0,
         "linepack_tgn_est": 131.45,
         "linepack_tgs_est": 224.1
       },
       {
         "fecha": "2026-10-06",
-        "linepack_total_est": 360.11,
-        "temp_prom": 19.4,
+        "linepack_total_est": 361.62,
+        "temp_prom": 17.1,
         "linepack_tgn_est": 131.43,
         "linepack_tgs_est": 224.07
       },
       {
         "fecha": "2026-10-07",
-        "linepack_total_est": 360.04,
-        "temp_prom": 18.8,
+        "linepack_total_est": 361.5,
+        "temp_prom": 18.5,
         "linepack_tgn_est": 131.42,
         "linepack_tgs_est": 224.05
       },
       {
         "fecha": "2026-10-08",
-        "linepack_total_est": 359.99,
-        "temp_prom": 17.8,
+        "linepack_total_est": 361.41,
+        "temp_prom": 18.2,
         "linepack_tgn_est": 131.41,
         "linepack_tgs_est": 224.04
       },
       {
         "fecha": "2026-10-09",
-        "linepack_total_est": 359.95,
-        "temp_prom": 15.9,
+        "linepack_total_est": 361.35,
+        "temp_prom": 15.6,
         "linepack_tgn_est": 131.4,
+        "linepack_tgs_est": 224.03
+      },
+      {
+        "fecha": "2026-10-10",
+        "linepack_total_est": 361.31,
+        "temp_prom": 12.8,
+        "linepack_tgn_est": 131.39,
         "linepack_tgs_est": 224.03
       }
     ],
@@ -118,7 +123,7 @@
         "tgs": 0.3
       },
       "target_recent_mean": {
-        "total": 359.86,
+        "total": 361.21,
         "tgn": 131.35,
         "tgs": 224.02
       }
@@ -126,18 +131,18 @@
     "backtest": {
       "total": {
         "k": 0.3,
-        "score": 8.41,
+        "score": 8.422,
         "mae_by_horizon": {
-          "1": 5.3,
-          "3": 9.28,
-          "7": 9.08,
-          "14": 9.98
+          "1": 5.18,
+          "3": 9.48,
+          "7": 9.31,
+          "14": 9.72
         },
         "persistence_mae": {
-          "1": 5.26,
-          "3": 11.17,
+          "1": 5.09,
+          "3": 11.34,
           "7": 13.99,
-          "14": 10.55
+          "14": 10.47
         }
       },
       "tgn": {
@@ -175,8 +180,8 @@
     },
     "anchor": {
       "total": {
-        "fecha": "2026-09-26",
-        "level": 368.5
+        "fecha": "2026-09-27",
+        "level": 371.6
       },
       "tgn": {
         "fecha": "2026-09-24",

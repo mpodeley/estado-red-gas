@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T17:54:11+00:00",
+  "generated_at": "2026-10-12T21:39:19+00:00",
   "source": "rolling train/predict on ENARGAS RDS",
   "source_date": null,
   "data": {
@@ -286,7 +286,7 @@
           {
             "fecha": "2026-10-05",
             "actual": null,
-            "predicted": 17.59
+            "predicted": 30.92
           },
           {
             "fecha": "2026-10-06",

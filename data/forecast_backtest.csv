@@ -1,5 +1,4 @@
 ﻿segmento,fecha,actual,predicted,residual
-prioritaria,2026-08-19,,60.64,
 prioritaria,2026-08-20,,51.9,
 prioritaria,2026-08-21,,67.43,
 prioritaria,2026-08-22,,70.76,
@@ -52,14 +51,14 @@ prioritaria,2026-10-07,,27.42,
 prioritaria,2026-10-08,,41.63,
 prioritaria,2026-10-09,,51.33,
 prioritaria,2026-10-10,,48.22,
-prioritaria,2026-10-11,,43.69,
+prioritaria,2026-10-11,,43.52,
 prioritaria,2026-10-12,,44.74,
 prioritaria,2026-10-13,,40.0,
 prioritaria,2026-10-14,,32.43,
 prioritaria,2026-10-15,,28.77,
 prioritaria,2026-10-16,,41.06,
 prioritaria,2026-10-17,,54.83,
-usinas,2026-08-19,,26.54,
+prioritaria,2026-10-18,,52.73,
 usinas,2026-08-20,,28.87,
 usinas,2026-08-21,,23.53,
 usinas,2026-08-22,,21.27,
@@ -119,7 +118,7 @@ usinas,2026-10-14,,35.36,
 usinas,2026-10-15,,35.71,
 usinas,2026-10-16,,32.86,
 usinas,2026-10-17,,26.08,
-demanda_total,2026-08-19,142.8,144.66,-1.86
+usinas,2026-10-18,,23.54,
 demanda_total,2026-08-20,144.1,139.38,4.72
 demanda_total,2026-08-21,152.2,144.66,7.54
 demanda_total,2026-08-22,143.9,137.88,6.02
@@ -179,3 +178,4 @@ demanda_total,2026-10-14,126.0,134.35,-8.35
 demanda_total,2026-10-15,128.0,132.66,-4.66
 demanda_total,2026-10-16,123.5,134.95,-11.45
 demanda_total,2026-10-17,118.3,132.93,-14.63
+demanda_total,2026-10-18,115.0,126.53,-11.53

@@ -1,6 +1,7 @@
 {
-  "generated_at": "2026-10-27T18:25:53+00:00",
-  "source": "SMN Open Data — alertas meteorológicas",
+  "generated_at": "2026-10-28T18:33:39+00:00",
+  "source": "SMN alertas (fetch failed)",
   "source_date": null,
-  "data": []
+  "data": [],
+  "error": "HTTPSConnectionPool(host='ssl.smn.gob.ar', port=443): Read timed out. (read timeout=30)"
 }

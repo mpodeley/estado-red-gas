@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-06T19:49:37+00:00",
+  "generated_at": "2026-11-07T17:58:35+00:00",
   "source": "ENARGAS Reporte Diario del Sistema (RDS)",
-  "source_date": "2026-11-06",
+  "source_date": "2026-11-07",
   "data": [
     {
       "fecha": "2024-04-20",
@@ -45284,8 +45284,53 @@
     },
     {
       "fecha": "2026-11-06",
+      "source": "RDS_20261106.pdf",
       "linepack_total": 385.8,
       "linepack_delta": 0.7,
+      "consumo_total_estimado": 104.9,
+      "temperatura_ba": {
+        "min": 16.0,
+        "max": 25.0,
+        "tm": 20.5
+      },
+      "importaciones": {
+        "bolivia": {
+          "programa": 0.0
+        },
+        "chile": {
+          "programa": 0.0
+        },
+        "escobar": {
+          "programa": 0.0
+        },
+        "bahia_blanca": {
+          "programa": 0.0
+        }
+      },
+      "consumos": {
+        "industria": {
+          "programa": 37.4
+        },
+        "gnc": {
+          "programa": 6.1
+        },
+        "combustible": {
+          "programa": 3.2
+        }
+      },
+      "exportaciones": {
+        "tgn": {
+          "vol_exportar": 3.7
+        },
+        "tgs": {
+          "vol_exportar": 2.3
+        }
+      }
+    },
+    {
+      "fecha": "2026-11-07",
+      "linepack_total": 381.6,
+      "linepack_delta": -4.2,
       "importaciones": {
         "bolivia": {
           "programa": 0.0,
@@ -45314,7 +45359,7 @@
       },
       "exportaciones": {
         "tgn": {
-          "vol_exportar": 3.7,
+          "vol_exportar": 4.9,
           "prom_mes_2025": 5.4,
           "misma_semana_2025": 5.2
         },
@@ -45326,12 +45371,12 @@
       },
       "consumos": {
         "industria": {
-          "programa": 37.4,
+          "programa": 38.0,
           "prom_mes_2025": 33.5,
           "misma_semana_2025": 33.5
         },
         "gnc": {
-          "programa": 6.1,
+          "programa": 6.0,
           "prom_mes_2025": 5.4,
           "misma_semana_2025": 5.5
         },
@@ -45341,35 +45386,35 @@
           "misma_semana_2025": 2.5
         }
       },
-      "consumo_total_estimado": 104.9,
+      "consumo_total_estimado": 100.4,
       "temperatura_ba": {
-        "min": 16.0,
-        "max": 25.0,
-        "tm": 20.5,
+        "min": 12.0,
+        "max": 19.0,
+        "tm": 15.5,
         "tm_2025": 20.7,
         "tm_misma_semana": 18.1
       },
       "forecast_temp_ba": [
         {
-          "fecha": "2026-11-10",
-          "min": 16.0,
-          "max": 25.0,
-          "tm": 20.5
-        },
-        {
           "fecha": "2026-11-11",
           "min": 17.0,
-          "max": 27.0,
-          "tm": 22.0
+          "max": 28.0,
+          "tm": 22.5
         },
         {
           "fecha": "2026-11-12",
           "min": 18.0,
           "max": 29.0,
           "tm": 23.5
+        },
+        {
+          "fecha": "2026-11-13",
+          "min": 19.0,
+          "max": 28.0,
+          "tm": 23.5
         }
       ],
-      "source": "RDS_20261106.pdf"
+      "source": "RDS_20261107.pdf"
     }
   ],
   "issues": []

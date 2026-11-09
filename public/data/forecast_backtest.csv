@@ -1,5 +1,4 @@
 ﻿segmento,fecha,actual,predicted,residual
-prioritaria,2026-09-10,,45.86,
 prioritaria,2026-09-11,,57.04,
 prioritaria,2026-09-12,,77.59,
 prioritaria,2026-09-13,,77.19,
@@ -59,7 +58,7 @@ prioritaria,2026-11-05,,19.32,
 prioritaria,2026-11-06,,19.18,
 prioritaria,2026-11-07,,30.54,
 prioritaria,2026-11-08,,25.24,
-usinas,2026-09-10,,32.65,
+prioritaria,2026-11-09,,17.16,
 usinas,2026-09-11,,31.61,
 usinas,2026-09-12,,22.94,
 usinas,2026-09-13,,16.91,
@@ -119,7 +118,7 @@ usinas,2026-11-05,,42.07,
 usinas,2026-11-06,,41.86,
 usinas,2026-11-07,,32.36,
 usinas,2026-11-08,,30.52,
-demanda_total,2026-09-10,131.7,133.6,-1.9
+usinas,2026-11-09,,40.41,
 demanda_total,2026-09-11,133.9,133.26,0.64
 demanda_total,2026-09-12,137.5,134.77,2.73
 demanda_total,2026-09-13,141.0,133.37,7.63
@@ -179,3 +178,4 @@ demanda_total,2026-11-05,103.7,125.74,-22.04
 demanda_total,2026-11-06,104.9,124.43,-19.53
 demanda_total,2026-11-07,100.4,126.09,-25.69
 demanda_total,2026-11-08,95.4,119.18,-23.78
+demanda_total,2026-11-09,89.6,124.05,-34.45

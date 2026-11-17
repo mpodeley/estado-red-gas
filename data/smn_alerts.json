@@ -1,6 +1,7 @@
 {
-  "generated_at": "2026-11-16T22:36:18+00:00",
-  "source": "SMN Open Data — alertas meteorológicas",
+  "generated_at": "2026-11-17T21:25:05+00:00",
+  "source": "SMN alertas (fetch failed)",
   "source_date": null,
-  "data": []
+  "data": [],
+  "error": "503 Server Error: Service Unavailable for url: https://ssl.smn.gob.ar/dpd/zipopendata.php?dato=alertas"
 }

@@ -1,6 +1,6 @@
 ﻿tipo,texto
-daily,"Temperatura promedio en Buenos Aires: 22 C (min 16.0, max 29.0)."
-daily,Demanda total del sistema: 108.2 MMm3/dia (suba de 2.0 MMm3/d vs dia anterior).
-weekly,Pronostico de temperatura para los proximos 7 dias: rango 21-24 C (promedio 22.2 C).
-weekly,Demanda total estimada para la semana: 103-120 MMm3/dia.
+daily,"Temperatura promedio en Buenos Aires: 22 C (min 20.0, max 25.0)."
+daily,Demanda total del sistema: 105.8 MMm3/dia (baja de 2.4 MMm3/d vs dia anterior).
+weekly,Pronostico de temperatura para los proximos 7 dias: rango 19-24 C (promedio 22.0 C).
+weekly,Demanda total estimada para la semana: 105-120 MMm3/dia.
 weekly,Demanda prioritaria estimada: 17-25 MMm3/dia.

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:55:02+00:00",
+  "generated_at": "2026-11-21T19:56:46+00:00",
   "source": "ENARGAS RDS regression (temp + day-of-week)",
   "source_date": "2026-11-20",
   "data": {
@@ -239,15 +239,15 @@
         "slope": 0.202,
         "intercept": 30.6,
         "r2": 0.217,
-        "r2_temp_only": 0.188,
-        "n_points": 926,
+        "r2_temp_only": 0.189,
+        "n_points": 927,
         "dow_offsets": {
-          "0": 0.35,
+          "0": 0.34,
           "1": 0.32,
           "2": 0.32,
           "3": 0.3,
           "4": 0.16,
-          "5": -0.63,
+          "5": -0.61,
           "6": -0.81
         },
         "mean_abs_residual": 1.9,
@@ -257,9 +257,9 @@
         "label": "GNC",
         "slope": -0.006,
         "intercept": 5.6,
-        "r2": 0.579,
+        "r2": 0.578,
         "r2_temp_only": 0.009,
-        "n_points": 926,
+        "n_points": 927,
         "dow_offsets": {
           "0": -0.01,
           "1": 0.02,
@@ -277,15 +277,15 @@
         "slope": -0.017,
         "intercept": 4.0,
         "r2": 0.05,
-        "r2_temp_only": 0.048,
-        "n_points": 926,
+        "r2_temp_only": 0.049,
+        "n_points": 927,
         "dow_offsets": {
           "0": -0.03,
           "1": -0.01,
           "2": -0.01,
           "3": 0.02,
           "4": 0.03,
-          "5": -0.0,
+          "5": -0.01,
           "6": -0.0
         },
         "mean_abs_residual": 0.33,
